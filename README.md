@@ -26,6 +26,10 @@ This is a simple C project using the **SDL1** library.
   C:\SDL\bin
   ```
 
+## 📹 Project Demo
+Want to see the project in action? Check out the full video demonstration:
+
+[![Bus Simulator Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/FQDNMgePzUU?si=TM3lZ-arqAX62KP8)
 
 
 
